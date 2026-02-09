@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name="tradeanim",
-    version="0.1.0",
-    description="Manim-like animation library for trading/financial chart videos",
+    version="0.2.0",
+    description="Manim-like animation library for professional trading chart videos",
     author="tradeanim",
     packages=find_packages(),
     python_requires=">=3.9",
