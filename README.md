@@ -1,6 +1,6 @@
 # tradeanim v0.2.0
 
-A **Manim-like animation library** for creating professional trading chart videos. Load OHLC data from CSV, animate candlesticks, add technical indicators, overlay ICT concepts, and export to MP4.
+A **Manim-like animation library** for creating professional trading chart videos. Load OHLC data from CSV, animate candlesticks, add technical indicators, overlay ICT concepts, and export to MP4. created with AI assistance.
 
 ## Installation
 
